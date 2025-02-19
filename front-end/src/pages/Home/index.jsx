@@ -1,6 +1,6 @@
 import { useEffect, useState, useRef } from 'react'
 import { Trash2Icon } from 'lucide-react'
-import './Style.css'
+import './style.css'
 import api from '../../services/api'
 
 function Home() {
