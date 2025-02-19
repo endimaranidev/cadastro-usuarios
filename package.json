@@ -6,8 +6,8 @@
     "dev": "npm run dev:frontend & npm run dev:backend",
     "dev:frontend": "cd front-end && npm run dev",
     "dev:backend": "cd api && npm start"
+  },
+  "dependencies": {
+    "prisma": "^6.4.0"
   }
 }
-
-
-  
