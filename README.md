@@ -7,4 +7,4 @@ Foi desenvolvido com o intuito de aprimorar e aprofundar meus conhecimentos em r
 - ⚛️ **Frontend:** React + Vite + TypeScript
 - 🚀 **Backend:** Node.js + Express + Prisma + MongoDB Atlas
 
-**Obs: ainda estou procurando aprender como fazer o deploy utilizando a vercel. Por esse motivo o sistema não está funcionando como deveria**
+**Obs: ainda estou procurando aprender como fazer o deploy utilizando a vercel. Por esse motivo o sistema não está funcionando como deveria e pode apresentar erros ao executar localmente**
